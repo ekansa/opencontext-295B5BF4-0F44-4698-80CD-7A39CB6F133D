@@ -47,7 +47,7 @@
         <oc:FileSize ReadSize="0 B">0</oc:FileSize>
         <oc:FileName>99.5.36.jpg</oc:FileName>
       </oc:FileInfo>
-      <arch:resourceURI/>
+      <arch:resourceURI>http://artiraq.org/static/opencontext/rough-cilicia/full/99_5_36.jpg</arch:resourceURI>
       <arch:previewURI>http://artiraq.org/static/opencontext/rough-cilicia/preview/99_5_36.jpg</arch:previewURI>
       <arch:thumbnailURI>http://artiraq.org/static/opencontext/rough-cilicia/thumbs/99_5_36.jpg</arch:thumbnailURI>
     </arch:externalFileInfo>
